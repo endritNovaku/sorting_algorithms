@@ -59,7 +59,7 @@ void lomuto_sort(int *array, int low, int high, size_t size)
 }
 
 /**
- * quck_sort - quick sort algorithm
+ * quick_sort - quick sort algorithm
  * @array: array
  * @size: size of the array
  */
